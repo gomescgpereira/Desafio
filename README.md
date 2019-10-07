@@ -5,7 +5,7 @@ Realmente foi um desafio ao iniciar este projeto
  e tentei terminar com outra(Wndows 7 com apenas 2Gb de memória)  
  
  API Cliente 
-   A idéia era que Api Cliente teria um modelo CQRS onde Escrita é um Banco in Memory usando .NetFramework e através de um Command enviaria
+   A idéia era que Api Cliente teria um modelo CQRS onde Escrita é um Banco in Memory usando .NetFramework e através de um "Command"   enviaria
  para um Banco NoSql no caso MongoDB
  Leitura seria nesta Base NoSql 
  Testes não foram feitos
@@ -14,7 +14,7 @@ Realmente foi um desafio ao iniciar este projeto
  Escrita foi MongoDB
  
  Serviço
- Foi Feito Serviço para Calculo
+ Foi feito serviço para cálculo
  
- E uma aplicação Console para teste do  Calculo
+ E uma aplicação Console Multithreading  para teste do Cálculo( Async)
  
