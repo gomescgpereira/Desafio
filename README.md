@@ -11,10 +11,9 @@ Realmente foi um desafio ao iniciar este projeto
  Testes não foram feitos
  
  API Cobrança
- Escrita foi MongoDB
  
  Serviço
  Foi feito serviço para cálculo
  
- E uma aplicação Console Multithreading  para teste do Cálculo( Async)
+ E uma aplicação Console Multithreading para teste do Cálculo( Async)
  
